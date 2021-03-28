@@ -1,0 +1,1 @@
+const String HAMAL_GROUP_GENERAL = "__HAMAL_GROUP_GENERAL__";
